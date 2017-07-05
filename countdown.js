@@ -59,7 +59,6 @@ window.onload=function(){
     },50);
 
 };
-
 function addBalls(x,y,num){
     for(var i=0;i<digit[num].length;i++){
         for(var j=0;j<digit[num][i].length;j++){
